@@ -25,5 +25,6 @@ public class insertionsort {
         for (int num : arr) {
             System.out.print(num + " ");
         }
+        sc.close();
     }
 }
